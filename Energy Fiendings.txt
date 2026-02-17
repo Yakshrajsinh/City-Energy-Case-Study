@@ -1,0 +1,16 @@
+SMART CITY ENERGY – KEY INSIGHTS
+
+1. The North Zone shows the highest total energy consumption, indicating higher load concentration and possible infrastructure stress.
+
+2. Industrial consumers contribute the largest share of total kWh usage, significantly exceeding residential and commercial segments.
+
+3. Monthly trend analysis reveals a steady increase in consumption during mid-year months, suggesting seasonal demand impact.
+
+4. Zones with higher outage minutes also show elevated peak usage levels, indicating potential grid instability during high-demand periods.
+
+5. Average cost per zone closely correlates with tariff rate variations, with Central Zone generating the highest estimated revenue.
+
+6. Weekend peak usage is lower than weekday peak usage for commercial consumers, while residential usage remains relatively stable.
+
+7. Certain meters consistently report higher outage durations and fault status, suggesting maintenance prioritization is required.
+
